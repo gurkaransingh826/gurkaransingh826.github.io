@@ -2,6 +2,8 @@
 
 Welcome to my project repository. This space serves as documentation for my independent engineering research, bridging theoretical physics with practical mechanical design and aerodynamic simulation. 
 
+[📄 Download Resume (PDF)](./Gurkaran_Singh_Resume.pdf)
+
 My current work focuses on using high-fidelity CAD to validate physical benchmarks, with plans to expand into field-tested aerodynamics.
 
 ## Technical
