@@ -4,6 +4,8 @@
 - The goal of this study was to verify the theoretical moment of inertia (I) of a physical rotational
   apparatus made in an AP Physics C: Mechanics Lab by creating a high-fidelity model in Autodesk Inventor.
 
+![Apparatus Assembly](./Apparatus%20Assembly.png)
+
 ## Technical Specifications
 - Geometry: Modeled using precise caliper measurements (outside radius = 11.150 mm, 
   inside radius = 8.755 mm).
