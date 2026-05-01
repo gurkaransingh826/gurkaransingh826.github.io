@@ -1,4 +1,3 @@
-# gurkaransingh826.github.io
 # Gurkaran Singh | Engineering Portfolio
 
 Welcome to my project repository. This space serves as documentation for my independent engineering research, bridging theoretical physics with practical mechanical design and aerodynamic simulation. 
