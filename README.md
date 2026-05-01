@@ -4,7 +4,7 @@ Welcome to my project repository. This space serves as documentation for my inde
 
 My current work focuses on using high-fidelity CAD to validate physical benchmarks, with plans to expand into field-tested aerodynamics.
 
-## 🛠️ Technical Toolkit
+## Technical
 * **Software:** Autodesk Fusion 360 Certified, Inventor Professional, XFLR5, Flow5
 * **Concepts:** 3D Parametric Modeling, Design for Manufacturability (DFM), Mechanical Graphics, Rotational Physics
 * **Education Base:** AP Physics C: Mechanics, AP Calculus AB
@@ -12,7 +12,7 @@ My current work focuses on using high-fidelity CAD to validate physical benchmar
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### [Rotation Lab Validation Study](./projects/rotation-study/)
 *Completed: Spring 2026*
